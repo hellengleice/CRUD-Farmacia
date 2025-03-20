@@ -8,7 +8,7 @@ Este é um projeto de uma API REST desenvolvida com **Spring Boot**, que impleme
 - **Spring Boot** (Spring Web, Spring Data JPA, Spring Validation)
 - **Hibernate** (ORM para banco de dados relacional)
 - **MySQL** (Banco de dados relacional)
-- **Insomnia  (Para testar as requisições da API)
+- **Insomnia** (Para testar as requisições da API)
 - **Maven** (Gerenciador de dependências)
 ---
 ## 📌 Funcionalidades
